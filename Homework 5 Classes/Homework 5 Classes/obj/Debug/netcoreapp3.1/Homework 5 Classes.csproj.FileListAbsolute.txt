@@ -1,0 +1,14 @@
+C:\Users\Maqsud\Desktop\Homeworks\Homework 5 Classes\Homework 5 Classes\bin\Debug\netcoreapp3.1\Homework 5 Classes.exe
+C:\Users\Maqsud\Desktop\Homeworks\Homework 5 Classes\Homework 5 Classes\bin\Debug\netcoreapp3.1\Homework 5 Classes.deps.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 5 Classes\Homework 5 Classes\bin\Debug\netcoreapp3.1\Homework 5 Classes.runtimeconfig.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 5 Classes\Homework 5 Classes\bin\Debug\netcoreapp3.1\Homework 5 Classes.runtimeconfig.dev.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 5 Classes\Homework 5 Classes\bin\Debug\netcoreapp3.1\Homework 5 Classes.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework 5 Classes\Homework 5 Classes\bin\Debug\netcoreapp3.1\Homework 5 Classes.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework 5 Classes\Homework 5 Classes\obj\Debug\netcoreapp3.1\Homework 5 Classes.csproj.AssemblyReference.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 5 Classes\Homework 5 Classes\obj\Debug\netcoreapp3.1\Homework 5 Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqsud\Desktop\Homeworks\Homework 5 Classes\Homework 5 Classes\obj\Debug\netcoreapp3.1\Homework 5 Classes.AssemblyInfoInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 5 Classes\Homework 5 Classes\obj\Debug\netcoreapp3.1\Homework 5 Classes.AssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 5 Classes\Homework 5 Classes\obj\Debug\netcoreapp3.1\Homework 5 Classes.csproj.CoreCompileInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 5 Classes\Homework 5 Classes\obj\Debug\netcoreapp3.1\Homework 5 Classes.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework 5 Classes\Homework 5 Classes\obj\Debug\netcoreapp3.1\Homework 5 Classes.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework 5 Classes\Homework 5 Classes\obj\Debug\netcoreapp3.1\Homework 5 Classes.genruntimeconfig.cache
